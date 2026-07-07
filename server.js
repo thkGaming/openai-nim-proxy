@@ -28,7 +28,7 @@ const MODEL_MAPPING = {
   'gpt-4o': 'z-ai/glm-5.2',
   'mistral': 'mistralai/mistral-medium-3.5-128b',
   'deepseek': 'deepseek-ai/deepseek-v3.1-terminus',
-  'minimax': 'minimaxai/minimax-m2.7',
+  'minimax': 'minimaxai/minimax-m3',
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
