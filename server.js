@@ -25,7 +25,7 @@ const MODEL_MAPPING = {
   'gpt-3.5-turbo': 'nvidia/llama-3.1-nemotron-ultra-253b-v1',
   'gpt-4': 'deepseek-ai/deepseek-v3.2',
   'gpt-4-turbo': 'moonshotai/kimi-k2-instruct-0905',
-  'gpt-4o': 'openai/gpt-oss-20b',
+  'gpt-4o': 'moonshotai/kimi-k3',
   'mistral': 'mistralai/mistral-nemotron',
   'deepseek': 'deepseek-ai/deepseek-v4-pro-0813',
   'minimax': 'minimaxai/minimax-m3',
