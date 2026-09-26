@@ -28,7 +28,7 @@ const MODEL_MAPPING = {
   'gpt-4o': 'moonshotai/kimi-k3',
   'mistral': 'mistralai/mistral-nemotron',
   'deepseek': 'deepseek-ai/deepseek-v4.1-flash',
-  'zai' : 'z-ai/glm-5.3',
+  'zai' : 'z-ai/glm-5.3-flash',
   'minimax': 'minimaxai/minimax-m3',
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
